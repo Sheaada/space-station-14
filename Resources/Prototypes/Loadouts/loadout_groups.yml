@@ -237,8 +237,8 @@
 - type: loadoutGroup
   id: BartenderShoes
   name: loadout-group-bartender-shoes
-  minLimit: 0
   loadouts:
+  - BlackShoes
   - ClownShoesExpert
 
 - type: loadoutGroup
@@ -275,8 +275,8 @@
 - type: loadoutGroup
   id: ChefShoes
   name: loadout-group-chef-shoes
-  minLimit: 0
   loadouts:
+  - BlackShoes
   - ClownShoesExpert
 
 - type: loadoutGroup
@@ -359,8 +359,8 @@
 - type: loadoutGroup
   id: ChaplainShoes
   name: loadout-group-chaplain-shoes
-  minLimit: 0
   loadouts:
+  - BlackShoes
   - ClownShoesExpert
 
 - type: loadoutGroup
@@ -403,8 +403,8 @@
 - type: loadoutGroup
   id: JanitorShoes
   name: loadout-group-janitor-shoes
-  minLimit: 0
   loadouts:
+  - JanitorGaloshes
   - JanitorClownShoes
 
 - type: loadoutGroup
@@ -456,8 +456,8 @@
 - type: loadoutGroup
   id: BotanistShoes
   name: loadout-group-botanist-shoes
-  minLimit: 0
   loadouts:
+  - BrownShoes
   - ClownShoesExpert
 
 - type: loadoutGroup
@@ -1394,8 +1394,8 @@
 - type: loadoutGroup
   id: ReporterShoes
   name: loadout-group-reporter-shoes
-  minLimit: 0
   loadouts:
+  - WhiteShoes
   - ClownShoesExpert
 
 - type: loadoutGroup
