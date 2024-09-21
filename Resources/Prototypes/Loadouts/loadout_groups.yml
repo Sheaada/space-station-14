@@ -1378,18 +1378,18 @@
 
 # Wildcards
 - type: loadoutGroup
-  id: ReporterJumpsuit
-  name: loadout-group-reporter-jumpsuit
-  loadouts:
-  - ReporterJumpsuit
-  - JournalistJumpsuit
-
-- type: loadoutGroup
   id: ReporterMask
   name: loadout-group-reporter-mask
   minLimit: 0
   loadouts:
   - ServiceClown
+
+- type: loadoutGroup
+  id: ReporterJumpsuit
+  name: loadout-group-reporter-jumpsuit
+  loadouts:
+  - ReporterJumpsuit
+  - JournalistJumpsuit
 
 - type: loadoutGroup
   id: ReporterShoes
