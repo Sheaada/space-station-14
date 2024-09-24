@@ -52,9 +52,11 @@
   groups:
   - GroupTankHarness
   - BartenderHead
+  - BartenderMask
   - BartenderJumpsuit
   - CommonBackpack
   - BartenderOuterClothing
+  - BartenderShoes
   - Glasses
   - Survival
   - Trinkets
@@ -80,6 +82,7 @@
   - ChefJumpsuit
   - CommonBackpack
   - ChefOuterClothing
+  - ChefShoes
   - Glasses
   - Survival
   - Trinkets
@@ -118,6 +121,7 @@
   - ChaplainJumpsuit
   - CommonBackpack
   - ChaplainOuterClothing
+  - ChaplainShoes
   - Glasses
   - Survival
   - Trinkets
@@ -128,10 +132,12 @@
   groups:
   - GroupTankHarness
   - JanitorHead
+  - JanitorMask
   - JanitorJumpsuit
   - JanitorGloves
   - CommonBackpack
   - JanitorOuterClothing
+  - JanitorShoes
   - Glasses
   - Survival
   - Trinkets
@@ -143,9 +149,11 @@
   groups:
   - GroupTankHarness
   - BotanistHead
+  - BotanistMask
   - BotanistJumpsuit
   - BotanistBackpack
   - BotanistOuterClothing
+  - BotanistShoes
   - Glasses
   - Survival
   - Trinkets
@@ -212,6 +220,7 @@
   groups:
   - GroupTankHarness
   - CargoTechnicianHead
+  - CargoTechnicianMask
   - CargoTechnicianJumpsuit
   - CargoTechnicianBackpack
   - CargoTechnicianOuterClothing
@@ -263,6 +272,7 @@
   groups:
   - GroupTankHarness
   - StationEngineerHead
+  - StationEngineerMask
   - StationEngineerJumpsuit
   - StationEngineerBackpack
   - StationEngineerOuterClothing
@@ -306,6 +316,7 @@
   groups:
   - GroupTankHarness
   - ScientistHead
+  - ScientistMask
   - ScientistNeck
   - ScientistJumpsuit
   - ScientistBackpack
@@ -339,7 +350,7 @@
   - SecurityBackpack
   - SecurityBelt
   - HeadofSecurityOuterClothing
-  - SecurityShoes
+  - UpperSecurityShoes
   - SurvivalSecurity
   - Trinkets
   - SecurityStar
@@ -353,7 +364,7 @@
   - SecurityBackpack
   - SecurityBelt
   - WardenOuterClothing
-  - SecurityShoes
+  - UpperSecurityShoes
   - SurvivalSecurity
   - Trinkets
   - SecurityStar
@@ -363,6 +374,7 @@
   id: JobSecurityOfficer
   groups:
   - SecurityHead
+  - SecurityMask
   - SecurityJumpsuit
   - SecurityBackpack
   - SecurityOuterClothing
@@ -379,6 +391,7 @@
   groups:
   - GroupTankHarness
   - DetectiveHead
+  - SecurityMask
   - DetectiveNeck
   - DetectiveJumpsuit
   - SecurityBackpack
@@ -421,12 +434,12 @@
   groups:
   - GroupTankHarness
   - MedicalDoctorHead
-  - MedicalMask
+  - MedicalDoctorMask
   - MedicalDoctorJumpsuit
   - MedicalGloves
   - MedicalBackpack
   - MedicalDoctorOuterClothing
-  - MedicalShoes
+  - MedicalDoctorShoes
   - MedicalDoctorPDA
   - Glasses
   - SurvivalMedical
@@ -453,7 +466,7 @@
   - MedicalGloves
   - ChemistBackpack
   - ChemistOuterClothing
-  - MedicalShoes
+  - ChemistShoes
   - SurvivalMedical
   - Trinkets
   - GroupSpeciesBreathToolMedical
@@ -489,8 +502,10 @@
   id: JobReporter
   groups:
   - GroupTankHarness
+  - ReporterMask
   - ReporterJumpsuit
   - CommonBackpack
+  - ReporterShoes
   - Glasses
   - Survival
   - Trinkets
