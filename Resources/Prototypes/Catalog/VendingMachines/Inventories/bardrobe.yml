@@ -16,4 +16,6 @@
     ClothingOuterVest: 2
     ClothingBeltBandolier: 2
     ClothingEyesGlassesSunglasses: 2
-
+  contrabandInventory:
+    ClothingMaskClownService: 1
+    ClothingOuterApronClown: 1
